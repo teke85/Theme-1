@@ -9,4 +9,5 @@ Jivon is built with Bootstrap version 5 and doesn't require jQuery.
 ## Below is a screenshot of the LANDING PAGE & PROJECTS PAGE!!
 
 ![](HOME_PAGE.png)
-![](PROJECTS_PAGE.png)
+
+![PROJECTS_ PAGE](https://user-images.githubusercontent.com/29442846/174493901-9e77ce21-2441-4bd3-ba78-d359ce18cf5d.png)
